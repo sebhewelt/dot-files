@@ -1,10 +1,12 @@
-# dot-files
+# My configuration files or in other words "dot files"
 
-### .zshrc
+- .zshrc
 
-* key bindings for iTerm
-* aliases
+key bindings for iTerm
+aliases
 
-### agnoster
+- agnoster
 
-* customized agnoster theme
+customized agnoster theme
+
+- iTerm settings
